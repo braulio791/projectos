@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="quiz_title">Quiz de Informática</string>
+    <string name="next_button">Próxima</string>
+    <string name="resultado_title">Resultado Final</string>
+    <string name="retake_button">Repetir Quiz</string>
+    <string name="exit_button">Sair</string>
+</resources>
