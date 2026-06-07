@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jogo de Dama</string>
+    <string name="play_vs_ai">Jogar contra IA</string>
+    <string name="play_local">Jogar Localmente</string>
+    <string name="player_turn">Turno do Jogador</string>
+    <string name="reset">Reiniciar</string>
+    <string name="back">Voltar</string>
+</resources>

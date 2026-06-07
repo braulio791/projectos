@@ -1,0 +1,31 @@
+# Gradle
+.gradle/
+build/
+*/build/
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+*.apk
+*.jks
+
+# Local properties
+local.properties
+
+# Kotlin
+*.kt.bak
+
+# Mac
+.DS_Store
+
+# IDE
+*.swp
+*.swo
+*~
+
+# Dependencies
+/.gradle
+/gradlew
+/gradlew.bat
